@@ -43,6 +43,7 @@ nav a { margin-left: 16px; text-decoration: none; font-weight: 600; }
 
 .hero { padding: 56px 0 32px; }
 .hero h1 { font-size: clamp(32px, 6vw, 48px); line-height: 1.1; margin: 0 0 14px; letter-spacing: -0.5px; }
+.hero .eyebrow { display: inline-block; margin: 0 0 14px; padding: 4px 12px; border-radius: 99px; background: var(--tint); color: var(--teal); font-size: 15px; font-weight: 700; letter-spacing: 0.2px; }
 .hero p { font-size: 19px; color: var(--muted); margin: 0; max-width: 620px; }
 
 .apps { display: grid; gap: 16px; padding: 16px 0 8px; }
