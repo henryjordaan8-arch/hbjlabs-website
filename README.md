@@ -23,3 +23,4 @@ Privacy links for the Play Console:
 - WardCalc: `/privacy/wardcalc.html`
 - WardBoard: `/privacy/wardboard.html`
 - LabScan: `/privacy/labscan.html`
+- CallRoster: `/privacy/callroster.html`
