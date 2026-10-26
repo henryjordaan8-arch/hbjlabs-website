@@ -6,7 +6,7 @@ the phone. Pages were generated once; edit the HTML directly from now on.
 
 Placeholders to change when the details are known (search for them):
 - `info@hbjlabs.co.za` (the contact email, used on every page)
-- `registration with CIPC in progress` (put the company registration number)
+- Registration number 2026/855949/07 (CIPC enterprise number K2026855949) is in every footer and notice
 - "Coming soon to Google Play" (put the Play links once the apps are live)
 
 ## Hosting (GitHub Pages, free)
